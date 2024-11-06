@@ -1,4 +1,4 @@
-# TiwalayoOluwalade
+# AHeartTrailAnimator
 This is a foundational Heart Trail Animator web application I made in June 2024. 
 This project initiates animations as your mouse moves anywhere on the webpage. It uses HTML, CSS, and JS with Vercel deployment.
 
